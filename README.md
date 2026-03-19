@@ -165,6 +165,10 @@ curl -X POST http://localhost:8001/api/interview-questions \
 │   │   └── index.js           # Entry point
 │   ├── package.json           # Node dependencies
 │   └── tailwind.config.js     # Tailwind CSS config
+│
+│── backend_test.py            #E2E testing of the backend
+│── context.md                 #context provided for better understanding
+└──Sample_Data.json           #Sample Job description details
 ```
 
 ---

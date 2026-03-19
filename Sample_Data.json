@@ -1,0 +1,118 @@
+[
+  {
+    "job_title": "Cloud Engineer",
+    "description": "Design and manage cloud infrastructure",
+    "required_skills": [
+      "AWS",
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "Python",
+      "CI/CD"
+    ],
+    "nice_to_have_skills": ["Azure", "GCP", "Ansible"],
+    "level": "Mid"
+  },
+  {
+    "job_title": "Data Scientist",
+    "description": "Build ML models and analyze data",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "Pandas",
+      "Scikit-Learn",
+      "SQL",
+      "Statistics"
+    ],
+    "nice_to_have_skills": ["PyTorch", "TensorFlow", "Deep Learning"],
+    "level": "Senior"
+  },
+  {
+    "job_title": "DevOps Engineer",
+    "description": "Automate deployment and infrastructure",
+    "required_skills": [
+      "Jenkins",
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "Linux",
+      "Bash"
+    ],
+    "nice_to_have_skills": ["Prometheus", "Grafana", "Helm"],
+    "level": "Mid"
+  },
+  {
+    "job_title": "Frontend Developer",
+    "description": "Build responsive web applications",
+    "required_skills": ["React", "JavaScript", "HTML5", "CSS3", "TypeScript"],
+    "nice_to_have_skills": ["Next.js", "Tailwind CSS", "Redux"],
+    "level": "Junior"
+  },
+  {
+    "job_title": "Backend Developer",
+    "description": "Develop scalable server-side applications",
+    "required_skills": ["Python", "Django", "PostgreSQL", "REST API", "Redis"],
+    "nice_to_have_skills": ["FastAPI", "GraphQL", "MongoDB"],
+    "level": "Mid"
+  },
+  {
+    "job_title": "Full Stack Developer",
+    "description": "Work on both frontend and backend",
+    "required_skills": ["React", "Node.js", "Express", "MongoDB", "JavaScript"],
+    "nice_to_have_skills": ["TypeScript", "Next.js", "AWS"],
+    "level": "Senior"
+  },
+  {
+    "job_title": "ML Engineer",
+    "description": "Deploy and scale machine learning models",
+    "required_skills": [
+      "Python",
+      "TensorFlow",
+      "Docker",
+      "Kubernetes",
+      "MLOps"
+    ],
+    "nice_to_have_skills": ["AWS SageMaker", "Kubeflow", "Airflow"],
+    "level": "Senior"
+  },
+  {
+    "job_title": "Cybersecurity Analyst",
+    "description": "Protect systems from security threats",
+    "required_skills": [
+      "Security",
+      "Penetration Testing",
+      "Cryptography",
+      "Linux",
+      "Networking"
+    ],
+    "nice_to_have_skills": ["OWASP", "CISSP", "Ethical Hacking"],
+    "level": "Mid"
+  },
+  {
+    "job_title": "Mobile Developer",
+    "description": "Build native mobile applications",
+    "required_skills": [
+      "React Native",
+      "JavaScript",
+      "iOS",
+      "Android",
+      "Mobile Development"
+    ],
+    "nice_to_have_skills": ["Flutter", "Swift", "Kotlin"],
+    "level": "Mid"
+  },
+  {
+    "job_title": "Data Engineer",
+    "description": "Build and maintain data pipelines",
+    "required_skills": [
+      "Python",
+      "Apache Spark",
+      "Kafka",
+      "SQL",
+      "ETL",
+      "Airflow"
+    ],
+    "nice_to_have_skills": ["Databricks", "Snowflake", "DBT"],
+    "level": "Senior"
+  }
+]
