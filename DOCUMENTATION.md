@@ -236,7 +236,9 @@ By combining:
 │
 │── backend_test.py            #E2E testing of the backend
 │── context.md                 #context provided for better understanding
-└──Sample_Data.json           #Sample Job description details
+│── Sample_Data.json           #Sample Job description details
+│── DOCUMENTATION.md            #Design Documentation
+└── README.md                   #README file
 ```
 
 ---
